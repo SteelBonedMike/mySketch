@@ -1,11 +1,11 @@
 //cool sketch
 
 void setup() {
-  
+size (600,600);  
 }
 
 void draw() {
-  background(255, 240, 0);
+  background(100, 240, 100);
   
   stroke(255, 0, 0);
   strokeWeight(4);
